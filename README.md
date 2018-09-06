@@ -1,2 +1,2 @@
-# csi_raffle
-Python snippet to generate raffle tickets for the CSI India project
+# Raffle tickets
+Reads an input csv with defined image fields & generates a tex file with 1 card per slide
